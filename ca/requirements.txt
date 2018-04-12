@@ -3,3 +3,4 @@ aioamqp
 aiohttp-swagger
 gensim
 pyyaml
+pymystem3
