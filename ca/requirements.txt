@@ -4,3 +4,5 @@ aiohttp-swagger
 gensim
 pyyaml
 pymystem3
+nltk
+bs4
